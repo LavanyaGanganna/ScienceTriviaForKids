@@ -1,0 +1,12 @@
+<resources>
+    <!--<string name="app_name">Science Trivia For Kids</string>-->
+    <string name="app_name">Science Trivia</string>
+    <string name="title_activity_anatomy">Anatomy</string>
+    <string name="break_timer_title">break_timer_title</string>
+    <string name="score">score</string>
+    <string name="title_activity_space">Space</string>
+    <string name="title_activity_plants">Plants</string>
+    <string name="title_activity_animals">Animals</string>
+    <string name="title_activity_astronomy">Astronomy</string>
+    <string name="title_activity_choicescreen">Choicescreen</string>
+</resources>
